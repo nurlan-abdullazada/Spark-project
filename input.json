@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Alice",
+  "address": {"city": "Baku", "zipcode": "AZ1000"},
+  "orders": [
+    {"order_id": "A001", "items": ["book", "pen"], "total": 25.5},
+    {"order_id": "A002", "items": ["notebook"], "total": 10.0}
+  ],
+  "metadata": {
+    "preferences": {"newsletter": true, "language": "en"},
+    "last_login": "2025-08-05T12:34:56"
+  }
+}
